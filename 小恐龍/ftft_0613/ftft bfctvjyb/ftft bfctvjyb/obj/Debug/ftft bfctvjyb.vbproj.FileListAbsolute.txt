@@ -1,0 +1,77 @@
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbprojAssemblyReference.cache
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Form1.resources
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Resources.resources
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.GenerateResource.cache
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.CoreCompileInputs.cache
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.exe.config
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.exe
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.pdb
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.xml
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.exe
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.xml
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.pdb
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\Interop.WMPLib.dll
+C:\Users\Maygo\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.ResolveComReference.cache
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.exe.config
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.exe
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.pdb
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.xml
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbprojAssemblyReference.cache
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\Interop.WMPLib.dll
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.ResolveComReference.cache
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Form1.resources
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Resources.resources
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.GenerateResource.cache
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.exe
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.xml
+C:\Users\blanc\Desktop\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.pdb
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.exe.config
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.exe
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.pdb
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.xml
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbprojAssemblyReference.cache
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\Interop.WMPLib.dll
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.ResolveComReference.cache
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Form1.resources
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Resources.resources
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.GenerateResource.cache
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.CoreCompileInputs.cache
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.exe
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.xml
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.pdb
+E:\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Form2.resources
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.exe.config
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.exe
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.pdb
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\bin\Debug\ftft bfctvjyb.xml
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbprojAssemblyReference.cache
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\Interop.WMPLib.dll
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.ResolveComReference.cache
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Form1.resources
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Form2.resources
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Resources.resources
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.GenerateResource.cache
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.CoreCompileInputs.cache
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.exe
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.xml
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.pdb
+C:\Users\Maygo\Desktop\鈺婷資料夾\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft_bfctvjyb.Form3.resources
+E:\社團博覽會\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbprojAssemblyReference.cache
+E:\社團博覽會\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\Interop.WMPLib.dll
+E:\社團博覽會\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.ResolveComReference.cache
+E:\社團博覽會\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.exe
+E:\社團博覽會\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.xml
+E:\社團博覽會\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.pdb
+D:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbprojAssemblyReference.cache
+D:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\Interop.WMPLib.dll
+D:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.ResolveComReference.cache
+D:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.exe
+D:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.xml
+D:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.pdb
+F:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbprojAssemblyReference.cache
+F:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\Interop.WMPLib.dll
+F:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.vbproj.ResolveComReference.cache
+F:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.exe
+F:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.xml
+F:\社團博覽會\遊戲\A組\小恐龍\ftft_0613\ftft bfctvjyb\ftft bfctvjyb\obj\Debug\ftft bfctvjyb.pdb
